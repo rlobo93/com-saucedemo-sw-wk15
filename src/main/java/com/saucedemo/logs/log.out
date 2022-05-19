@@ -1,0 +1,66 @@
+2022-05-18 23:05:852 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:112 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:775 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:51 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 20:05:373 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 20:05:600 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 20:05:03 INFO  LoginPage :38 - Enter Username : [[ChromeDriver: chrome on WINDOWS (c8f583a52067181b49aed14307ef28d2)] -> id: user-name]<br>
+2022-05-19 20:05:75 INFO  LoginPage :38 - Enter Username : [[ChromeDriver: chrome on WINDOWS (110125b41b63d2e82e6a7c6e05c3db45)] -> id: user-name]<br>
+2022-05-19 20:05:122 INFO  LoginPage :43 - Enter Password : [[ChromeDriver: chrome on WINDOWS (c8f583a52067181b49aed14307ef28d2)] -> id: password]<br>
+2022-05-19 20:05:169 INFO  LoginPage :43 - Enter Password : [[ChromeDriver: chrome on WINDOWS (110125b41b63d2e82e6a7c6e05c3db45)] -> id: password]<br>
+2022-05-19 20:05:196 INFO  LoginPage :48 - click Login Button : [[ChromeDriver: chrome on WINDOWS (c8f583a52067181b49aed14307ef28d2)] -> id: login-button]<br>
+2022-05-19 20:05:243 INFO  LoginPage :48 - click Login Button : [[ChromeDriver: chrome on WINDOWS (110125b41b63d2e82e6a7c6e05c3db45)] -> id: login-button]<br>
+2022-05-19 20:05:816 INFO  MainPage :27 - Mouse Hover On Filter : Proxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]'<br>
+2022-05-19 20:05:355 INFO  MainPage :27 - Mouse Hover On Filter : Proxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]'<br>
+2022-05-19 20:05:727 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 20:05:935 INFO  LoginPage :38 - Enter Username : [[ChromeDriver: chrome on WINDOWS (2318ddc9eb3eb6e97b60786c7b2149ab)] -> id: user-name]<br>
+2022-05-19 20:05:12 INFO  LoginPage :43 - Enter Password : [[ChromeDriver: chrome on WINDOWS (2318ddc9eb3eb6e97b60786c7b2149ab)] -> id: password]<br>
+2022-05-19 20:05:77 INFO  LoginPage :48 - click Login Button : [[ChromeDriver: chrome on WINDOWS (2318ddc9eb3eb6e97b60786c7b2149ab)] -> id: login-button]<br>
+2022-05-19 20:05:185 INFO  MainPage :27 - Mouse Hover On Filter : Proxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]'<br>
+2022-05-19 20:05:11 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 20:05:592 INFO  LoginPage :38 - Enter Username : [[ChromeDriver: chrome on WINDOWS (c5f5d3cce4f8bf9db2e1a0e1f6848983)] -> id: user-name]<br>
+2022-05-19 20:05:671 INFO  LoginPage :43 - Enter Password : [[ChromeDriver: chrome on WINDOWS (c5f5d3cce4f8bf9db2e1a0e1f6848983)] -> id: password]<br>
+2022-05-19 20:05:736 INFO  LoginPage :48 - click Login Button : [[ChromeDriver: chrome on WINDOWS (c5f5d3cce4f8bf9db2e1a0e1f6848983)] -> id: login-button]<br>
+2022-05-19 20:05:838 INFO  MainPage :27 - Mouse Hover On Filter : [[ChromeDriver: chrome on WINDOWS (c5f5d3cce4f8bf9db2e1a0e1f6848983)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-19 20:05:968 INFO  MainPage :36 - selectFilter : [[ChromeDriver: chrome on WINDOWS (c5f5d3cce4f8bf9db2e1a0e1f6848983)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-19 20:05:107 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 20:05:699 INFO  LoginPage :38 - Enter Username : [[ChromeDriver: chrome on WINDOWS (5c9f63794ae126fd5956098b3db85c5a)] -> id: user-name]<br>
+2022-05-19 20:05:777 INFO  LoginPage :43 - Enter Password : [[ChromeDriver: chrome on WINDOWS (5c9f63794ae126fd5956098b3db85c5a)] -> id: password]<br>
+2022-05-19 20:05:841 INFO  LoginPage :48 - click Login Button : [[ChromeDriver: chrome on WINDOWS (5c9f63794ae126fd5956098b3db85c5a)] -> id: login-button]<br>
+2022-05-19 20:05:936 INFO  MainPage :36 - selectFilter : [[ChromeDriver: chrome on WINDOWS (5c9f63794ae126fd5956098b3db85c5a)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-19 20:05:354 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 20:05:924 INFO  LoginPage :38 - Enter Username : [[ChromeDriver: chrome on WINDOWS (52c1c4403cb50e0e4e151824b008f933)] -> id: user-name]<br>
+2022-05-19 20:05:06 INFO  LoginPage :43 - Enter Password : [[ChromeDriver: chrome on WINDOWS (52c1c4403cb50e0e4e151824b008f933)] -> id: password]<br>
+2022-05-19 20:05:73 INFO  LoginPage :48 - click Login Button : [[ChromeDriver: chrome on WINDOWS (52c1c4403cb50e0e4e151824b008f933)] -> id: login-button]<br>
+2022-05-19 20:05:178 INFO  MainPage :36 - selectFilter : [[ChromeDriver: chrome on WINDOWS (52c1c4403cb50e0e4e151824b008f933)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-19 21:05:582 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 21:05:188 INFO  LoginPage :38 - Enter Username : [[ChromeDriver: chrome on WINDOWS (8c6f1387df4b7619206256002b0b9e1f)] -> id: user-name]<br>
+2022-05-19 21:05:266 INFO  LoginPage :43 - Enter Password : [[ChromeDriver: chrome on WINDOWS (8c6f1387df4b7619206256002b0b9e1f)] -> id: password]<br>
+2022-05-19 21:05:336 INFO  LoginPage :48 - click Login Button : [[ChromeDriver: chrome on WINDOWS (8c6f1387df4b7619206256002b0b9e1f)] -> id: login-button]<br>
+2022-05-19 21:05:799 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 21:05:345 INFO  LoginPage :38 - Enter Username : [[ChromeDriver: chrome on WINDOWS (fed242c5cae949ac994288a497ef8380)] -> id: user-name]<br>
+2022-05-19 21:05:434 INFO  LoginPage :43 - Enter Password : [[ChromeDriver: chrome on WINDOWS (fed242c5cae949ac994288a497ef8380)] -> id: password]<br>
+2022-05-19 21:05:500 INFO  LoginPage :48 - click Login Button : [[ChromeDriver: chrome on WINDOWS (fed242c5cae949ac994288a497ef8380)] -> id: login-button]<br>
+2022-05-19 21:05:670 INFO  MainPage :36 - selectFilter : [[ChromeDriver: chrome on WINDOWS (fed242c5cae949ac994288a497ef8380)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-19 21:05:821 INFO  MainPage :44 - select Cheapest Product : [[ChromeDriver: chrome on WINDOWS (fed242c5cae949ac994288a497ef8380)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-19 21:05:893 INFO  MainPage :52 - click On CheckOut : [[ChromeDriver: chrome on WINDOWS (fed242c5cae949ac994288a497ef8380)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]<br>
+2022-05-19 21:05:940 INFO  CheckoutPage :26 - select Cheapest Product : [[ChromeDriver: chrome on WINDOWS (fed242c5cae949ac994288a497ef8380)] -> xpath: //button[@id='checkout']]<br>
+2022-05-19 21:05:986 INFO  CheckoutPage :35 - Enter FirstName : [[ChromeDriver: chrome on WINDOWS (fed242c5cae949ac994288a497ef8380)] -> xpath: //input[@id='first-name']]<br>
+2022-05-19 21:05:40 INFO  CheckoutPage :43 - Enter LastName : [[ChromeDriver: chrome on WINDOWS (fed242c5cae949ac994288a497ef8380)] -> xpath: //input[@id='last-name']]<br>
+2022-05-19 21:05:97 INFO  CheckoutPage :52 - Enter PostCode : [[ChromeDriver: chrome on WINDOWS (fed242c5cae949ac994288a497ef8380)] -> xpath: //input[@id='postal-code']]<br>
+2022-05-19 21:05:164 INFO  CheckoutPage :61 - Enter PostCode : [[ChromeDriver: chrome on WINDOWS (fed242c5cae949ac994288a497ef8380)] -> xpath: //input[@id='continue']]<br>
+2022-05-19 21:05:219 INFO  CheckoutPage :71 - Enter PostCode : [[ChromeDriver: chrome on WINDOWS (fed242c5cae949ac994288a497ef8380)] -> xpath: //button[@id='finish']]<br>
+2022-05-19 21:05:605 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 21:05:140 INFO  LoginPage :38 - Enter Username : [[ChromeDriver: chrome on WINDOWS (88394add6849225569b01acf46adac2c)] -> id: user-name]<br>
+2022-05-19 21:05:218 INFO  LoginPage :43 - Enter Password : [[ChromeDriver: chrome on WINDOWS (88394add6849225569b01acf46adac2c)] -> id: password]<br>
+2022-05-19 21:05:282 INFO  LoginPage :48 - click Login Button : [[ChromeDriver: chrome on WINDOWS (88394add6849225569b01acf46adac2c)] -> id: login-button]<br>
+2022-05-19 21:05:386 INFO  MainPage :36 - selectFilter : [[ChromeDriver: chrome on WINDOWS (88394add6849225569b01acf46adac2c)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-19 21:05:569 INFO  MainPage :44 - select Cheapest Product : [[ChromeDriver: chrome on WINDOWS (88394add6849225569b01acf46adac2c)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]<br>
+2022-05-19 21:05:623 INFO  MainPage :52 - click On CheckOut : [[ChromeDriver: chrome on WINDOWS (88394add6849225569b01acf46adac2c)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]<br>
+2022-05-19 21:05:671 INFO  CheckoutPage :35 - select Cheapest Product : [[ChromeDriver: chrome on WINDOWS (88394add6849225569b01acf46adac2c)] -> xpath: //button[@id='checkout']]<br>
+2022-05-19 21:05:721 INFO  CheckoutPage :43 - Enter FirstName : [[ChromeDriver: chrome on WINDOWS (88394add6849225569b01acf46adac2c)] -> xpath: //input[@id='first-name']]<br>
+2022-05-19 21:05:777 INFO  CheckoutPage :49 - Enter LastName : [[ChromeDriver: chrome on WINDOWS (88394add6849225569b01acf46adac2c)] -> xpath: //input[@id='last-name']]<br>
+2022-05-19 21:05:832 INFO  CheckoutPage :58 - Enter PostCode : [[ChromeDriver: chrome on WINDOWS (88394add6849225569b01acf46adac2c)] -> xpath: //input[@id='postal-code']]<br>
+2022-05-19 21:05:896 INFO  CheckoutPage :67 - Enter PostCode : [[ChromeDriver: chrome on WINDOWS (88394add6849225569b01acf46adac2c)] -> xpath: //input[@id='continue']]<br>
+2022-05-19 21:05:951 INFO  CheckoutPage :77 - Enter PostCode : [[ChromeDriver: chrome on WINDOWS (88394add6849225569b01acf46adac2c)] -> xpath: //button[@id='finish']]<br>
+2022-05-19 21:05:996 INFO  CheckoutPage :86 - Verify Thank You Text : [[ChromeDriver: chrome on WINDOWS (88394add6849225569b01acf46adac2c)] -> xpath: //h2[contains(text(),'THANK YOU FOR YOUR ORDER')]]<br>
